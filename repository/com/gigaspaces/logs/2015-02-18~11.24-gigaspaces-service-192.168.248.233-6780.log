@@ -1,0 +1,9 @@
+2015-02-18 11:24:38,190  INFO [com.gigaspaces.container] - No license provided, using community license
+2015-02-18 11:24:38,481  INFO [com.gigaspaces.container] - Created RMIRegistry on: < 192.168.248.233:10098 >
+2015-02-18 11:24:38,499  INFO [com.gigaspaces.container] - Webster HTTP server started successfully serving the following roots: C:\Users\AndroidDev\.m2\repository\com\gigaspaces\/lib;C:\Users\AndroidDev\.m2\repository\com\gigaspaces\/lib/jini 
+ Webster serving on: 192.168.248.233:9813
+2015-02-18 11:24:39,429  INFO [com.sun.jini.reggie] - started Reggie: 580552ab-2d7a-480a-9f97-be148df255ee, [drools], jini://192.168.248.233:4174/
+2015-02-18 11:24:39,624  INFO [com.gigaspaces.core.common] - Starting Space [space_container:space] with url [/./space?schema=default&groups=drools&state=started] ...
+2015-02-18 11:24:40,516  INFO [com.gigaspaces.cache] - Cache manager created with policy [ALL IN CACHE], persistency mode [memory]
+2015-02-18 11:24:40,856  INFO [com.gigaspaces.core.common] - Space [space_container:space] with url [/./space?schema=default&groups=drools&state=started] started successfully
+2015-02-18 11:24:41,376  INFO [com.sun.jini.mahalo.startup] - Mahalo started: com.sun.jini.mahalo.TransientMahaloImpl@63f586c3

@@ -1,0 +1,14 @@
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<parent>
+<groupId>org.jboss</groupId>
+<artifactId>jboss-parent</artifactId>
+<version>5</version>
+</parent>
+<modelVersion>4.0.0</modelVersion>
+<groupId>commons-httpclient</groupId>
+<artifactId>commons-httpclient</artifactId>
+<packaging>jar</packaging>
+<version>3.1-jbossorg-1</version>
+<name>HTTP Client</name>
+<url>http://hc.apache.org/httpclient-3.x/</url>
+</project>
